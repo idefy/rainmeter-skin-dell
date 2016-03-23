@@ -1,4 +1,4 @@
-Swatch Internet Beat time skin for Rainmeter
+Dell info skin for Rainmeter
 ============================================
 
 version 1.0.0
